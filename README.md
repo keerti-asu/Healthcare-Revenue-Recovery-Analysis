@@ -19,5 +19,6 @@ This project analyzes a dataset of 1,000+ healthcare claims to identify revenue 
 
 ## Final Dashboard
 ![Dashboard Screenshot]
-<img width="1120" height="631" alt="dashboard_preview" src="https://github.com/user-attachments/assets/3b813789-d5be-4d7f-9901-dda4aa80d3e7" />
+<img width="1118" height="635" alt="dashboard_preview" src="https://github.com/user-attachments/assets/b730fb03-a986-4223-b79e-2dda450e34d6" />
+
 

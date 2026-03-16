@@ -18,5 +18,6 @@ This project analyzes a dataset of 1,000+ healthcare claims to identify revenue 
 * **Insurance Gaps:** Commercial insurance shows the highest "Revenue Gap," indicating a need for contract renegotiation.
 
 ## Final Dashboard
-![Dashboard Screenshot](<img width="1120" height="631" alt="dashboard_preview" src="https://github.com/user-attachments/assets/62a07ada-ebe0-475f-9a28-079215b68c6d" />
-)
+![Dashboard Screenshot]
+<img width="1120" height="631" alt="dashboard_preview" src="https://github.com/user-attachments/assets/3b813789-d5be-4d7f-9901-dda4aa80d3e7" />
+
